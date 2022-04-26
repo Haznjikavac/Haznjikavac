@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Edi
 - 👀 I’m interested in web development, front-end development
 - 📚 I’m currently learning JavaScript
 
